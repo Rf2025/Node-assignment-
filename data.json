@@ -1,0 +1,40 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "first_name": "Aubrey",
+      "last_name": "Rieflin",
+      "email": "arieflin0@ning.com"
+    },
+    {
+      "id": 2,
+      "first_name": "Alford",
+      "last_name": "Felmingham",
+      "email": "afelmingham1@123-reg.co.uk"
+    },
+    {
+      "id": 4,
+      "first_name": "Rooney",
+      "last_name": "Foxley",
+      "email": "rfoxley3@fema.gov"
+    },
+    {
+      "id": 5,
+      "first_name": "Karita",
+      "last_name": "Buckenhill",
+      "email": "kbuckenhill4@va.gov"
+    },
+    {
+      "id": 10,
+      "name": "john",
+      "lastNAME": "doe"
+    },
+
+    {
+      "id": 10,
+      "name": "john",
+      "lastNAME": "doe",
+      "Email": "johndoe1234@gmail.com"
+    }
+  ]
+}
